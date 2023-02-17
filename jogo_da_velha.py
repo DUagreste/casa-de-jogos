@@ -1,5 +1,6 @@
-import random # Módulo para o computador jogar automaticamente
-import os     # Módulo para limpar o terminal
+# Módulos
+import random
+import os     
 
 
 # Função geral do jogo
